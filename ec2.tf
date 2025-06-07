@@ -18,7 +18,6 @@ variable "db_instance_name" {
   type = string
 }
 
-
 variable "db_engine" {
   type = string
 }

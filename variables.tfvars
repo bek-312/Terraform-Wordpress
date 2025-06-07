@@ -58,7 +58,6 @@ port_3306          = 3306
 rds_sg_rule_name   = "Allow MySQL from WordPress SG"
 mysql_subnet_group = "mysql-subnet-group"
 
-
 key_name    = "linuxkey"
 db_username = "admin"
 db_password = "adminadmin"
